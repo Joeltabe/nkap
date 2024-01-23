@@ -1,9 +1,8 @@
-import 'package:etaka/views/components/constant.dart';
-import 'package:etaka/views/screens/register_screen.dart';
-import 'package:etaka/views/screens/welcome_screen.dart';
+import 'package:nkap/views/components/constant.dart';
+import 'package:nkap/views/screens/register_screen.dart';
+import 'package:nkap/views/screens/welcome_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-
 
 class LoadingScreen extends StatefulWidget {
   const LoadingScreen({Key? key}) : super(key: key);

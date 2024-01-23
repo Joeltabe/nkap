@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:etaka/views/components/toast.dart';
+import 'package:nkap/views/components/toast.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';

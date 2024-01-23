@@ -1,5 +1,5 @@
-import 'package:etaka/views/components/constant.dart';
-import 'package:etaka/views/components/reuseable_widgets.dart';
+import 'package:nkap/views/components/constant.dart';
+import 'package:nkap/views/components/reuseable_widgets.dart';
 import 'package:flutter/material.dart';
 
 class TransactionFailed extends StatefulWidget {
@@ -59,7 +59,8 @@ class TransactionFailedState extends State<TransactionFailed> {
                 child: Text('Back'),
               ),
               style: ElevatedButton.styleFrom(
-                elevation: 10, backgroundColor: primaryColor,
+                elevation: 10,
+                backgroundColor: primaryColor,
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(10),
                 ),

@@ -1,4 +1,4 @@
-import 'package:etaka/views/screens/dashboard_screen.dart';
+import 'package:nkap/views/screens/dashboard_screen.dart';
 import 'package:flutter/material.dart';
 
 class Login extends StatefulWidget {

@@ -1,8 +1,8 @@
-import 'package:etaka/logics/models/profile.dart';
-import 'package:etaka/logics/services/payment_gateway.dart';
-import 'package:etaka/views/components/constant.dart';
-import 'package:etaka/views/components/reuseable_widgets.dart';
-import 'package:etaka/views/components/toast.dart';
+import 'package:nkap/logics/models/profile.dart';
+import 'package:nkap/logics/services/payment_gateway.dart';
+import 'package:nkap/views/components/constant.dart';
+import 'package:nkap/views/components/reuseable_widgets.dart';
+import 'package:nkap/views/components/toast.dart';
 import 'package:flutter/material.dart';
 
 class AddMoneyScreen extends StatefulWidget {
@@ -71,7 +71,8 @@ class _AddMoneyScreenState extends State<AddMoneyScreen> {
                 child: Text('Continue'),
               ),
               style: ElevatedButton.styleFrom(
-                elevation: 10, backgroundColor: primaryColor,
+                elevation: 10,
+                backgroundColor: primaryColor,
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(10),
                 ),

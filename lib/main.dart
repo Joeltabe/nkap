@@ -1,7 +1,7 @@
-import 'package:etaka/views/screens/welcome_screen.dart';
+import 'package:nkap/views/screens/welcome_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:etaka/provider/auth_provider.dart';
+import 'package:nkap/provider/auth_provider.dart';
 
 // void main() async {
 //   WidgetsFlutterBinding.ensureInitialized();

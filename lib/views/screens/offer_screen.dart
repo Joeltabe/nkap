@@ -1,7 +1,7 @@
-import 'package:etaka/logics/models/offer.dart';
-import 'package:etaka/logics/services/API/api_helper.dart';
-import 'package:etaka/views/components/constant.dart';
-import 'package:etaka/views/components/reuseable_widgets.dart';
+import 'package:nkap/logics/models/offer.dart';
+import 'package:nkap/logics/services/API/api_helper.dart';
+import 'package:nkap/views/components/constant.dart';
+import 'package:nkap/views/components/reuseable_widgets.dart';
 import 'package:flutter/material.dart';
 
 class OfferScreen extends StatefulWidget {

@@ -1,7 +1,7 @@
-import 'package:etaka/logics/services/API/api_helper.dart';
-import 'package:etaka/views/components/constant.dart';
-import 'package:etaka/views/components/reuseable_widgets.dart';
-import 'package:etaka/views/screens/transaction_successfull.dart';
+import 'package:nkap/logics/services/API/api_helper.dart';
+import 'package:nkap/views/components/constant.dart';
+import 'package:nkap/views/components/reuseable_widgets.dart';
+import 'package:nkap/views/screens/transaction_successfull.dart';
 import 'package:flutter/material.dart';
 
 class CashOutScreen extends StatefulWidget {
@@ -90,7 +90,8 @@ class _CashOutScreenState extends State<CashOutScreen> {
                 child: Text('CONFIRM'),
               ),
               style: ElevatedButton.styleFrom(
-                elevation: 10, backgroundColor: primaryColor,
+                elevation: 10,
+                backgroundColor: primaryColor,
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(10),
                 ),

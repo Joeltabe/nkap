@@ -1,7 +1,7 @@
-import 'package:etaka/logics/models/profile.dart';
-import 'package:etaka/logics/services/API/api_helper.dart';
-import 'package:etaka/views/components/constant.dart';
-import 'package:etaka/views/components/reuseable_widgets.dart';
+import 'package:nkap/logics/models/profile.dart';
+import 'package:nkap/logics/services/API/api_helper.dart';
+import 'package:nkap/views/components/constant.dart';
+import 'package:nkap/views/components/reuseable_widgets.dart';
 import 'package:flutter/material.dart';
 // import 'package:persistent_bottom_nav_bar/persistent-tab-view.dart';
 import 'package:shared_preferences/shared_preferences.dart';

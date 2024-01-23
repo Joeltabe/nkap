@@ -1,9 +1,10 @@
-import 'package:etaka/logics/models/profile.dart';
-import 'package:etaka/logics/services/API/api_helper.dart';
-import 'package:etaka/views/components/constant.dart';
-import 'package:etaka/views/components/pie_chart.dart';
-import 'package:etaka/views/components/reuseable_widgets.dart';
-import 'package:etaka/views/screens/send_money_screen.dart';
+import 'package:nkap/logics/models/profile.dart';
+import 'package:nkap/logics/services/API/api_helper.dart';
+import 'package:nkap/views/components/constant.dart';
+import 'package:nkap/views/components/pie_chart.dart';
+import 'package:nkap/views/components/reuseable_widgets.dart';
+import 'package:nkap/views/screens/send_money_screen.dart';
+
 import 'package:flutter/material.dart';
 import 'add _money.dart';
 import 'bill_payment_screen.dart';

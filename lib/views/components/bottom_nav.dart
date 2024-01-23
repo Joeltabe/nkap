@@ -1,7 +1,7 @@
-import 'package:etaka/views/screens/dashboard_screen.dart';
-import 'package:etaka/views/screens/offer_screen.dart';
-import 'package:etaka/views/screens/profile_screen.dart';
-import 'package:etaka/views/screens/transaction_history.dart';
+import 'package:nkap/views/screens/dashboard_screen.dart';
+import 'package:nkap/views/screens/offer_screen.dart';
+import 'package:nkap/views/screens/profile_screen.dart';
+import 'package:nkap/views/screens/transaction_history.dart';
 import 'package:flutter/material.dart';
 import 'package:persistent_bottom_nav_bar/persistent_tab_view.dart';
 

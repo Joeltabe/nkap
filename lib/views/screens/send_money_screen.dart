@@ -1,8 +1,8 @@
-import 'package:etaka/logics/models/profile.dart';
-import 'package:etaka/views/components/constant.dart';
-import 'package:etaka/views/components/reuseable_widgets.dart';
-import 'package:etaka/views/components/toast.dart';
-import 'package:etaka/views/screens/send_money_confirmation.dart';
+import 'package:nkap/logics/models/profile.dart';
+import 'package:nkap/views/components/constant.dart';
+import 'package:nkap/views/components/reuseable_widgets.dart';
+import 'package:nkap/views/components/toast.dart';
+import 'package:nkap/views/screens/send_money_confirmation.dart';
 import 'package:flutter/material.dart';
 
 class SendMoneyScreen extends StatefulWidget {
@@ -91,7 +91,8 @@ class _SendMoneyScreenState extends State<SendMoneyScreen> {
                 child: Text('SEND'),
               ),
               style: ElevatedButton.styleFrom(
-                elevation: 10, backgroundColor: primaryColor,
+                elevation: 10,
+                backgroundColor: primaryColor,
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(10),
                 ),

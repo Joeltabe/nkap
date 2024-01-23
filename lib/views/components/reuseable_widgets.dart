@@ -1,4 +1,4 @@
-import 'package:etaka/logics/models/offer.dart';
+import 'package:nkap/logics/models/offer.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 
@@ -205,7 +205,8 @@ class CustomPrimaryButton extends StatelessWidget {
               )),
         ),
         style: ElevatedButton.styleFrom(
-          elevation: 10, backgroundColor: primaryColor,
+          elevation: 10,
+          backgroundColor: primaryColor,
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(10),
           ),
