@@ -1,6 +1,5 @@
 # Nkap
-A Cross Platform Mobile Financial Service (MFS) Application. Nkap is a Mobile Financial Mobile Application based on P2P Banking Concept for Android and iOS Platform Developed By Flutter and Django REST Backend
-
+Nkap is a cross-platform mobile application for financial services (MFS) that follows the P2P banking concept. It is developed using Flutter for the Android and iOS platforms, with a Django REST backend.
 ## 🔥Project environment
 
 
