@@ -1,9 +1,9 @@
-# etaka
-A Cross Platform Mobile Financial Service (MFS) Application. eTaka is a Mobile Financial Mobile Application based on P2P Banking Concept for Android and iOS Platform Developed By Flutter and Django REST Backend
+# Nkap
+A Cross Platform Mobile Financial Service (MFS) Application. Nkap is a Mobile Financial Mobile Application based on P2P Banking Concept for Android and iOS Platform Developed By Flutter and Django REST Backend
 
 ## 🔥Project environment
 
-[![eTaka Workflow](https://github.com/ssoad/etaka/actions/workflows/dart.yml/badge.svg)](https://github.com/ssoad/etaka/actions/workflows/dart.yml)
+[![Nkap Workflow](https://github.com/ssoad/etaka/actions/workflows/dart.yml/badge.svg)](https://github.com/ssoad/etaka/actions/workflows/dart.yml)
 
     1. Flutter version 3.3.7
 
@@ -12,7 +12,7 @@ A Cross Platform Mobile Financial Service (MFS) Application. eTaka is a Mobile F
 
 ## ✨ Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
-* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio etc)
 * A little knowledge of Dart and Flutter
 * A brain to think 🤓🤓
 
