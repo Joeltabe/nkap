@@ -3,7 +3,6 @@ A Cross Platform Mobile Financial Service (MFS) Application. Nkap is a Mobile Fi
 
 ## 🔥Project environment
 
-[![Nkap Workflow](https://github.com/ssoad/etaka/actions/workflows/dart.yml/badge.svg)](https://github.com/ssoad/etaka/actions/workflows/dart.yml)
 
     1. Flutter version 3.3.7
 
@@ -20,8 +19,8 @@ A Cross Platform Mobile Financial Service (MFS) Application. Nkap is a Mobile Fi
 
 Make sure you have Flutter installed on your local machine. For more instructions on how to install flutter, look [here](https://flutter.io/docs/get-started/install).
 ```
-git clone https://github.com/ssoad/etaka.git
-cd etaka
+git clone https://github.com/Joeltabe/nkap.git
+cd nkap
 flutter pub get
 flutter run
 ```
