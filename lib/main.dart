@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'eflaa',
+        title: 'Nkap',
         theme: ThemeData(
           // This is the theme of your application.
           //
