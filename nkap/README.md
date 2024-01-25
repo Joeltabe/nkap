@@ -3,9 +3,11 @@ Nkap is a cross-platform mobile application for financial services (MFS) that fo
 ## 🔥Project environment
 
 
-    1. Flutter version 3.3.7
+    1. Flutter 3.16.8 
 
-    2. Dart version 2.18.4
+    2. Dart 3.2.5 
+
+    3. DevTools 2.28.5
 
 
 ## ✨ Requirements
